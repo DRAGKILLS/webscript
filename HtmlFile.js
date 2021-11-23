@@ -3,6 +3,7 @@ class HtmlFile {
         return `
 <!DOCTYPE html>
 <html>
+<head>
 <title>Title</title>
 </head>
 <body>
